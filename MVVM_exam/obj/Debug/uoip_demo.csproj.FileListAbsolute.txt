@@ -1,0 +1,15 @@
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\bin\Debug\uoip_demo.exe.config
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\bin\Debug\uoip_demo.exe
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\bin\Debug\uoip_demo.pdb
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.csprojAssemblyReference.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\MainWindow.g.cs
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\App.g.cs
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo_MarkupCompile.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo_MarkupCompile.lref
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\MainWindow.baml
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.g.resources
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.Properties.Resources.resources
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.csproj.GenerateResource.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.csproj.CoreCompileInputs.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.exe
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\uoip_demo\uoip_demo\obj\Debug\uoip_demo.pdb

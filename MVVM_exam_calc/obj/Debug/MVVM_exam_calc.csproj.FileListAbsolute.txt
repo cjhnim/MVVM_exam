@@ -1,0 +1,15 @@
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\bin\Debug\MVVM_exam_calc.exe.config
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\bin\Debug\MVVM_exam_calc.exe
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\bin\Debug\MVVM_exam_calc.pdb
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.csprojAssemblyReference.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MainWindow.g.cs
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\App.g.cs
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc_MarkupCompile.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc_MarkupCompile.lref
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MainWindow.baml
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.g.resources
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.Properties.Resources.resources
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.csproj.GenerateResource.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.csproj.CoreCompileInputs.cache
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.exe
+C:\svn\devguru\lab1\project2018\usboverip_se\trunk\src\platform\win\MVVM_exam\MVVM_exam_calc\obj\Debug\MVVM_exam_calc.pdb
